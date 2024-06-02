@@ -1,5 +1,7 @@
 # Coffee Shop Sales Analysis
-<img width="796" alt="Dashboard" src="https://github.com/akhilaa94/Coffee-Shop-Sales-Analysis/assets/169245384/13f46a83-3e05-4356-bccf-39ca8778fd86">
+
+<img width="805" alt="coffee_sales_dashboard" src="https://github.com/akhilaa94/Coffee-Shop-Sales-Analysis/assets/169245384/77d733a8-0a67-489a-b7d5-a1a8434e4b4d">
+
 
 
 
@@ -76,6 +78,13 @@ The revenue generated from sales is much higher than the total number of orders 
 
 Weekdays (Monday to Friday) exhibit consistent order volumes, while weekends (Saturday and Sunday) show slight variations. 
 
+#  Recommendations
+
+1. Allocate additional resources during peak hours (10 AM to 11 AM) to handle higher order volumes efficiently. Consider optimizing staffing and inventory management during off-peak hours.
+2. Investigate the “Not defined” size category to better understand its composition. Ensure clear categorization to improve reporting accuracy. Additionally, explore strategies to boost sales for “Small” size.
+3. Continue promoting high-performing products like Barista Espresso and Brewed Chai Tea. Consider cross-selling or bundling products to increase sales for other items.
+4. Optimize staffing and resources based on daily demand patterns. Consider adjusting marketing efforts or promotions to drive more orders on weekends (Saturday and Sunday).
+5. Focusing on increasing the average order value (sales per order) could lead to higher revenue.
 
 
 
